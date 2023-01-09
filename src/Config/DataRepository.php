@@ -1,11 +1,11 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Config;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Config;
 
 /**
  * Class DataRepository
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Config
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BaseCore\Config
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

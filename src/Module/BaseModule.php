@@ -1,14 +1,14 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Module;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Module;
 
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Base\BaseCore;
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Database\Database;
+use nguyenanhung\WebBuilderModules\Platforms\BaseCore\Base\BaseCore;
+use nguyenanhung\WebBuilderModules\Platforms\BaseCore\Database\Database;
 
 /**
  * Class BaseModule
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Module
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BaseCore\Module
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

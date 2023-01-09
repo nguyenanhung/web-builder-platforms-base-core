@@ -1,13 +1,13 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Repository;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Repository;
 
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Base\BaseCore;
+use nguyenanhung\WebBuilderModules\Platforms\BaseCore\Base\BaseCore;
 
 /**
  * Class BaseRepository
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Repository
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BaseCore\Repository
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

@@ -8,7 +8,7 @@
  * Time: 01:03
  */
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Template;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Template;
 
 use Twig\Loader\FilesystemLoader as Twig_Loader_FilesystemLoader;
 use Twig\Environment as Twig_Environment;

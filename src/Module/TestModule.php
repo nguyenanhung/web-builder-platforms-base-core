@@ -8,12 +8,12 @@
  * Time: 17:00
  */
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Module;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Module;
 
 /**
  * Class TestModule
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Module
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BaseCore\Module
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

@@ -1,22 +1,22 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Base;
+namespace nguyenanhung\WebBuilderModules\Platforms\BaseCore\Base;
 
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Template\Template;
+use nguyenanhung\WebBuilderModules\Platforms\BaseCore\Template\Template;
 use nguyenanhung\MyDebug\Benchmark;
 use nguyenanhung\MyDebug\Logger;
 use nguyenanhung\MyCache\Cache;
 use nguyenanhung\MyRequests\MyRequests;
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Helper\Helper;
+use nguyenanhung\WebBuilderModules\Platforms\BaseCore\Helper\Helper;
 
 /**
  * Class BaseCore
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Base
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BaseCore\Base
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  *
- * @property \nguyenanhung\WebBuilderModules\Platforms\Your_Module\Database\Database $db
+ * @property \nguyenanhung\WebBuilderModules\Platforms\BaseCore\Database\Database $db
  */
 class BaseCore
 {
@@ -28,7 +28,7 @@ class BaseCore
     const KEY_API_SERVICE = 'API_SERVICE';
     const KEY_HANDLE = 'HANDLE';
 
-    /** @var \nguyenanhung\WebBuilderModules\Platforms\Your_Module\Helper\Helper */
+    /** @var \nguyenanhung\WebBuilderModules\Platforms\BaseCore\Helper\Helper */
     protected $helper;
     /** @var \nguyenanhung\MyDebug\Benchmark */
     protected $benchmark;
